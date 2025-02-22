@@ -3,7 +3,7 @@
 
 - ☀️ Probally Somewhere Outside :)
 
-<h3 align="left">How To Reach me:</h3> 
+<h3 align="left">How To Reach Me:</h3> 
 <p align="left">
 <a href="https://discord.gg/forcng" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="dev" /></a>
 </p>
