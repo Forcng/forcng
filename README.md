@@ -1,7 +1,6 @@
 <h1 align="center">Hello There👋, I'm Forcng</h1>
 <h3 align="center">Learning Frontend & Backend Developer</h3>
 
-- 💬 You Can Ask Me Questions About: **Lua & HTML5, React**
 - ☀️ Probally Somewhere Outside :)
 
 <h3 align="left">How To Reach me:</h3> 
