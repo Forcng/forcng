@@ -33,5 +33,8 @@
 </p>
 
 ---
+### 📊 GitHub Stats:
 
-<img src="https://i.fmfile.com/mWyrmWeVUrIRGwFfLHGFT/fc1588023ca00d3c7f8f8519e80103a9.jpg" alt="Forcng Banner" style="width:100%; border-radius:12px;" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Forcng&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
