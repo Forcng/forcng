@@ -1,7 +1,7 @@
 <h1 align="center">Hello There👋, I'm Forcng</h1>
 <h3 align="center">Fullstack FiveM Developer</h3>
 
-- ☀️ You can ask me questions about svelte :)
+- ☀️ You Can Ask Me Questions About Svelte5, TailwindCSS etc.
 - ☀️ Probally Somewhere Outside :)
 
 <h3 align="left">How To Reach Me:</h3> 
